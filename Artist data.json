@@ -49,7 +49,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Protocol Recordings",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2aC9mM0TYKL9gHAv4OZmGS",
   "Artist Rank": 39230,
   "Genre Rank": 7
@@ -71,7 +71,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "'94 Sounds\/RCA Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/02nTpchENdZ4Nm8AfTmrFv",
   "Artist Rank": 1637,
   "Genre Rank": 2
@@ -115,7 +115,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "WM Australia",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6CX9CaAS6KTOo6Iq1NL9j0",
   "Artist Rank": 46507,
   "Genre Rank": 1
@@ -126,7 +126,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Capitol Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6fDlAcex9PxMcvw4eiZjLq",
   "Artist Rank": 471,
   "Genre Rank": 2
@@ -258,7 +258,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Pointer Recordings",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5iazYkEr6zbeZYjoUGwEBn",
   "Artist Rank": 16928,
   "Genre Rank": "#DIV\/0!"
@@ -357,7 +357,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Astral People Recordings",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7CJj238MecPG1II1UgO1OJ",
   "Artist Rank": 999999,
   "Genre Rank": "#DIV\/0!"
@@ -379,7 +379,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Dreams Never Die",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4XvBuksY1YuiQjYpkZL1Oz",
   "Artist Rank": 39103,
   "Genre Rank": "#DIV\/0!"
@@ -390,7 +390,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Cellarr",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0dwfulJVkGjSnQdQhjThwQ",
   "Artist Rank": 60334,
   "Genre Rank": 3
@@ -412,7 +412,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "NLV Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6ywG233PgTLgpQtoe28zb3",
   "Artist Rank": 123291,
   "Genre Rank": "#DIV\/0!"
@@ -423,7 +423,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Maddie Zahm",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1emUJfYrNiu2TuUsz8WiQf",
   "Artist Rank": 2566,
   "Genre Rank": 1
@@ -434,7 +434,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Fast Friends",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0zQStWTaXhsovcUMcxa3ui",
   "Artist Rank": 10457,
   "Genre Rank": 6
@@ -500,7 +500,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Cooking Vinyl Australia",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4zBFWizKHRrrgHmb3VQvuJ",
   "Artist Rank": 16999,
   "Genre Rank": 7
@@ -610,7 +610,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Parkwood Entertainment\/Columbia",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3xcapG4WdzvsER4g70MjKc",
   "Artist Rank": 963,
   "Genre Rank": 4
@@ -676,7 +676,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "RCA Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4qiiEZPtUtgyDb5qGnEWKl",
   "Artist Rank": 1515,
   "Genre Rank": 1
@@ -808,7 +808,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7jJ7cQ0mGUcqnbo0ivQnS1",
   "Artist Rank": 38229,
   "Genre Rank": "#DIV\/0!"
@@ -852,7 +852,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Cupnoodle",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5zogRWN8ZnNmFsUXKTUJaW",
   "Artist Rank": 52874,
   "Genre Rank": "#DIV\/0!"
@@ -863,7 +863,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Symba Music Group",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1AlbmEnnFgR9b4yCw9zkzf",
   "Artist Rank": 269493,
   "Genre Rank": 1
@@ -874,7 +874,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Quality Control Music\/Motown Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6i7mdZTIEUGD7jrc0xnPBV",
   "Artist Rank": 3407,
   "Genre Rank": 2
@@ -885,7 +885,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "1501 Certified Ent\/Warner Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/60kkJZwSjzmoXP9dOWUlqe",
   "Artist Rank": 6456,
   "Genre Rank": 2
@@ -1006,7 +1006,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "BMG Rights Management (Australia) Pty Ltd.",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5cShPEpSbFcxGTtHvscJoH",
   "Artist Rank": 325407,
   "Genre Rank": "#DIV\/0!"
@@ -1061,7 +1061,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "J4",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5hdPK5xykxHncn7e0cjM2c",
   "Artist Rank": 999999,
   "Genre Rank": "#DIV\/0!"
@@ -1083,7 +1083,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Sony Music Entertainment",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/45a1YuX82cUwd1wQgrPJY2",
   "Artist Rank": 345016,
   "Genre Rank": "#DIV\/0!"
@@ -1105,7 +1105,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Maz Music Group",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3gVZzMHj4rs7LHBc5iwRt6",
   "Artist Rank": 550910,
   "Genre Rank": "#DIV\/0!"
@@ -1193,7 +1193,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "MissGenius Music",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0tq4iLyUTYefbJlq6oV6nT",
   "Artist Rank": 109755,
   "Genre Rank": 2
@@ -1204,7 +1204,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Caroline & Claude",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/22Zey6Vk0e2lAkS1dsJ2CR",
   "Artist Rank": 162617,
   "Genre Rank": "#DIV\/0!"
@@ -1215,7 +1215,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Mikey G",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\",\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1AbCxel1Xc6DWoCXBvjolQ",
   "Artist Rank": 229144,
   "Genre Rank": 3
@@ -1237,7 +1237,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "HERE FOREVER",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6kQ4memBI1KQfIyHXvnoLv",
   "Artist Rank": 6688,
   "Genre Rank": 2
@@ -1292,7 +1292,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Atlantic\/City Pop Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7gF16AbvFNPRXgmuXtevuU",
   "Artist Rank": 13221,
   "Genre Rank": 1
@@ -1358,7 +1358,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Universal Music Australia Pty. Ltd.",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4aQZ2dbUpZla5J1uma2mRE",
   "Artist Rank": 266748,
   "Genre Rank": "#DIV\/0!"
@@ -1380,7 +1380,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Castille",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1o1Gyn2S35ETc7CG2SL0ja",
   "Artist Rank": 47180,
   "Genre Rank": "#DIV\/0!"
@@ -1402,7 +1402,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "HITCO",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7xCrXGPDHKYHIyPOaDAv8Q",
   "Artist Rank": 864,
   "Genre Rank": 1
@@ -1523,7 +1523,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Oshua",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0rnE88Fa1mzCuxNkaM0PLX",
   "Artist Rank": 31565,
   "Genre Rank": 2
@@ -1534,7 +1534,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Young Poet",
-  "Genres": "null",
+  "Genres": "[\"Indie Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/34EvKrNMNWeVDme3kmEPww",
   "Artist Rank": 166748,
   "Genre Rank": 22
@@ -1633,7 +1633,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "YSM Sound under exclusive license to Believe",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6XZFzfW1WpmA9L0dJ47FxF",
   "Artist Rank": 11036,
   "Genre Rank": 2
@@ -1644,7 +1644,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "ACTS Music Group",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/41ceyy3ZjeKG7fVyW0fcrj",
   "Artist Rank": 156314,
   "Genre Rank": "#DIV\/0!"
@@ -1666,7 +1666,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Teamwrk Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1JlCL0fublQBpOOjjWSdJG",
   "Artist Rank": 177834,
   "Genre Rank": "#DIV\/0!"
@@ -1677,7 +1677,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "EKKSTACY under exclusive license to UnitedMasters",
-  "Genres": "null",
+  "Genres": "[\"Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/10Z0dIrJJY2eSRRqLOjD7b",
   "Artist Rank": 11243,
   "Genre Rank": 9
@@ -1688,7 +1688,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "MADDY MAY",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3cO08pRbdEqex3nfuU937F",
   "Artist Rank": 205302,
   "Genre Rank": "#DIV\/0!"
@@ -1699,7 +1699,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Tbi$h",
-  "Genres": "null",
+  "Genres": "[\"Grime\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7c59JXGEQZAgNyh4od18xZ",
   "Artist Rank": 194255,
   "Genre Rank": "#DIV\/0!"
@@ -1721,7 +1721,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "New Levels",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1WjvUiJxrt19yWLOGrkcWf",
   "Artist Rank": 288564,
   "Genre Rank": "#DIV\/0!"
@@ -1798,7 +1798,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Universal Music Australia Pty. Ltd.",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4pbNUnuvBwwlSemuheyLyy",
   "Artist Rank": 79111,
   "Genre Rank": 6
@@ -1809,7 +1809,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Castille",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0w2INg5RVukivGRp9QYnGC",
   "Artist Rank": 152311,
   "Genre Rank": "#DIV\/0!"
@@ -1820,7 +1820,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "PollyHill",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/481NKLlNs4zXqg2ReHfy23",
   "Artist Rank": 28755,
   "Genre Rank": "#DIV\/0!"
@@ -1842,7 +1842,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Columbia",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/52CFxHZxBbiZ1l9eTFpFxJ",
   "Artist Rank": 3171,
   "Genre Rank": 4
@@ -1864,7 +1864,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "WM Australia",
-  "Genres": "null",
+  "Genres": "[\"Pop\",\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/22vVXX39APvqsmNlNPOXtt",
   "Artist Rank": 128588,
   "Genre Rank": 2
@@ -1875,7 +1875,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Sony Music Entertainment",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2sFXzS9LnbQe5BigrfsVRP",
   "Artist Rank": 7386,
   "Genre Rank": 1
@@ -1886,7 +1886,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Slip Slop Clap",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3ZLqUf3uDShVPJzJuWoXNr",
   "Artist Rank": 166436,
   "Genre Rank": "#DIV\/0!"
@@ -1897,7 +1897,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Next Chapter Music",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4sJA8DziwjGg73B0tTc8fz",
   "Artist Rank": 105210,
   "Genre Rank": "#DIV\/0!"
@@ -1919,7 +1919,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Universal Music New Zealand Limited",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2QDwztWHi4eYRHM45Wm04H",
   "Artist Rank": 246013,
   "Genre Rank": 1
@@ -2084,7 +2084,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Biordi Music",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/321Jxoz3UQY41IrN6GeGjG",
   "Artist Rank": 30344,
   "Genre Rank": 3
@@ -2106,7 +2106,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Columbia",
-  "Genres": "null",
+  "Genres": "[\"Australian Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3kCYnvSwhSzYBD7fnDFhbY",
   "Artist Rank": 1593,
   "Genre Rank": "#DIV\/0!"
@@ -2128,7 +2128,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Nemzzz Records",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4HYYvnNZg3sZCGr0NkS8S1",
   "Artist Rank": 8341,
   "Genre Rank": "#DIV\/0!"
@@ -2172,7 +2172,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "WM Australia",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4TiUIJAjpcx6AzNwx1gZLe",
   "Artist Rank": 38484,
   "Genre Rank": 1
@@ -2183,7 +2183,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "3225965 Records DK2",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7btVxzWmEnBuxdunhWWhUI",
   "Artist Rank": 56738,
   "Genre Rank": "#DIV\/0!"
@@ -2194,7 +2194,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "JROCHEMAN and Nuxe",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5gXwaIKVD5FwzodEhKB76y",
   "Artist Rank": 61163,
   "Genre Rank": 1
@@ -2205,7 +2205,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "House Anxiety\/Ourness",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0AJzVMzlFT03insWEIlrDz",
   "Artist Rank": 39268,
   "Genre Rank": 6
@@ -2216,7 +2216,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Diamond House",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4S1HEAhzmAJlaoiUsijFyu",
   "Artist Rank": 193908,
   "Genre Rank": "#DIV\/0!"
@@ -2249,7 +2249,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "NihyakuWIND",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4lErKE9FjE7pbqY85t3nn5",
   "Artist Rank": 60349,
   "Genre Rank": "#DIV\/0!"
@@ -2282,7 +2282,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "10K Projects",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1huSguFFPyo3saFH9u5Sb6",
   "Artist Rank": 1591,
   "Genre Rank": 1
@@ -2425,7 +2425,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "HarakatiMusicGroup",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3NdEadbqRaZtfmMxRgAvJx",
   "Artist Rank": 165952,
   "Genre Rank": "#DIV\/0!"
@@ -2436,7 +2436,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2SKeIjd8lWi2gfZtkg1KEi",
   "Artist Rank": 465565,
   "Genre Rank": "#DIV\/0!"
@@ -2447,7 +2447,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Audition Tape",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4Ain4Hssln4SoCzfJDaMt6",
   "Artist Rank": 600292,
   "Genre Rank": 1
@@ -2491,7 +2491,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Sweat It Out",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1zdLQRirEiCljtDZJaX2E1",
   "Artist Rank": 173523,
   "Genre Rank": 4
@@ -2568,7 +2568,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Polydor Records",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1hUV7Uu4pYQZaaXLjEIIYn",
   "Artist Rank": 6690,
   "Genre Rank": 7
@@ -2579,7 +2579,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Interscope Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3OYUuT8iujKMFUoeKrnhwe",
   "Artist Rank": 4194,
   "Genre Rank": 1
@@ -2601,7 +2601,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Teamwrk Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1ajy7aofsnxnHc4s0KYj2u",
   "Artist Rank": 74878,
   "Genre Rank": 2
@@ -2612,7 +2612,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Arista Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/03qh7qUB2zEPVWUc9isLCW",
   "Artist Rank": 4222,
   "Genre Rank": 1
@@ -2623,7 +2623,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Chess Club",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5Sglaa4CqeCmpLLWFCvu3i",
   "Artist Rank": 5089,
   "Genre Rank": 1
@@ -2645,7 +2645,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "WM New Zealand",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2xR9fWmh2iFbai7Lv7EQpr",
   "Artist Rank": 92679,
   "Genre Rank": 6
@@ -2656,7 +2656,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Lola Scott",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/48r0FCzpeVpFP4KMW7G8CI",
   "Artist Rank": 143336,
   "Genre Rank": "#DIV\/0!"
@@ -2678,7 +2678,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Mute",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7INfFJ0S1a6ZnIxtxDJlwq",
   "Artist Rank": 19110,
   "Genre Rank": 3
@@ -2711,7 +2711,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Biordi Music",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2T1HDMEh7BDKfCZlKxET3D",
   "Artist Rank": 20606,
   "Genre Rank": 2
@@ -2744,7 +2744,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "TMRW Music",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/71Y5owvHyof8o5NtrAr912",
   "Artist Rank": 129194,
   "Genre Rank": 5
@@ -2788,7 +2788,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Westway Collective",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6hLEl7Q4eO8sGuS9nfzbkB",
   "Artist Rank": 273837,
   "Genre Rank": "#DIV\/0!"
@@ -2799,7 +2799,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "EMI Recorded Music Australia Pty Ltd",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2Y2EaCujlSb55lAmzxKhAL",
   "Artist Rank": 426868,
   "Genre Rank": "#DIV\/0!"
@@ -2821,7 +2821,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Artist Partner Group, Inc",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7LhVGZrF9jgkT97CaKTlds",
   "Artist Rank": 13184,
   "Genre Rank": "#DIV\/0!"
@@ -2865,7 +2865,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Forever Ever Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4fkgjkCqxOsjePLSpHZbpa",
   "Artist Rank": 79897,
   "Genre Rank": "#DIV\/0!"
@@ -2898,7 +2898,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "3540151 Records DK2",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7wXPl3wCGlHDXXaDyr9rPq",
   "Artist Rank": 16978,
   "Genre Rank": "#DIV\/0!"
@@ -2909,7 +2909,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Liberation Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0uBweZFdnXrd8Krl37hlNG",
   "Artist Rank": 234186,
   "Genre Rank": "#DIV\/0!"
@@ -2931,7 +2931,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Virgin Music UK LAS (S&D)",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3V6smv7JlVHAPnp8xegMAd",
   "Artist Rank": 9954,
   "Genre Rank": "#DIV\/0!"
@@ -3008,7 +3008,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Epic",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5b6enCVP67LsqqrfTs6rxr",
   "Artist Rank": 3022,
   "Genre Rank": 1
@@ -3030,7 +3030,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Hart Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2A2L16DM6ejgzhxRfLlCdV",
   "Artist Rank": 229218,
   "Genre Rank": 1
@@ -3063,7 +3063,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "1909163 Records DK2",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2UhF4UzGzUeVEvyd8Hq7in",
   "Artist Rank": 54213,
   "Genre Rank": "#DIV\/0!"
@@ -3129,7 +3129,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Artist Partner Group, Inc",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/07od6wz8rrAeXVYQoXZU2W",
   "Artist Rank": 18020,
   "Genre Rank": 2
@@ -3140,7 +3140,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "AEDAN (Independent)",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6dJihiTMBbqiSXfA4yYp0E",
   "Artist Rank": 999999,
   "Genre Rank": 1
@@ -3151,7 +3151,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Sire",
-  "Genres": "null",
+  "Genres": "[\"Afro-Pop\",\"World (Region Music)\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3AUW4YqukPw4YfBV1ZkkNe",
   "Artist Rank": 1204,
   "Genre Rank": 45
@@ -3217,7 +3217,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Gaga Digi",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4ApefEche3lwf2eSiptDAR",
   "Artist Rank": 470609,
   "Genre Rank": "#DIV\/0!"
@@ -3228,7 +3228,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Universal Music Australia Pty. Ltd.",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3BzF37CRHUANrYfj444Ztb",
   "Artist Rank": 486651,
   "Genre Rank": "#DIV\/0!"
@@ -3250,7 +3250,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Wantok Musik",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/647U5eZsNcXqLvQM2d1aHr",
   "Artist Rank": 999999,
   "Genre Rank": "#DIV\/0!"
@@ -3283,7 +3283,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "[PIAS] Australia",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1e6064Pl18yb00gEQYwUMJ",
   "Artist Rank": 146291,
   "Genre Rank": "#DIV\/0!"
@@ -3316,7 +3316,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "House of Gods",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0WG0ouTu225Jlh7vGXfKtL",
   "Artist Rank": 185296,
   "Genre Rank": 1
@@ -3338,7 +3338,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Ministry of Sound Recordings",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0y6CoVW1ZSBqRmPbyfhFQs",
   "Artist Rank": 21380,
   "Genre Rank": 7
@@ -3371,7 +3371,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Big Dawg Recordings",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7ddrivgLLPCJWCYwMdabc8",
   "Artist Rank": 138819,
   "Genre Rank": "#DIV\/0!"
@@ -3393,7 +3393,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Domestic La La",
-  "Genres": "null",
+  "Genres": "[\"Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0sEAcw3FWdD1FHGtztFLEo",
   "Artist Rank": 74081,
   "Genre Rank": 9
@@ -3426,7 +3426,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Jem Cassar-Daley",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0yrYlrdEkmltyVAMAINrGy",
   "Artist Rank": 98733,
   "Genre Rank": 1
@@ -3437,7 +3437,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Universal Music New Zealand & Australia (Distribution)",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7cwsbOczJ1v0DBWIIBW9An",
   "Artist Rank": 97191,
   "Genre Rank": "#DIV\/0!"
@@ -3492,7 +3492,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Order of the Snake",
-  "Genres": "null",
+  "Genres": "[\"Hard Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0pOeZhJipQdF3qBiu1LjmC",
   "Artist Rank": 6259,
   "Genre Rank": 65
@@ -3503,7 +3503,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Arista Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1oMKYS43XRqNsY1SVuiCoJ",
   "Artist Rank": 21547,
   "Genre Rank": 1
@@ -3514,7 +3514,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Since 93",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/43ZTfozcXRTukqENA3TXqe",
   "Artist Rank": 1700,
   "Genre Rank": "#DIV\/0!"
@@ -3525,7 +3525,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Monstercat",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5smthiQvz7Nn5IKIy6d38W",
   "Artist Rank": 4523,
   "Genre Rank": 7
@@ -3547,7 +3547,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "New Levels",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0HAIFaixlhFJHVxm9OxMH9",
   "Artist Rank": 143752,
   "Genre Rank": 4
@@ -3580,7 +3580,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Columbia",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/54obxWf8kRI8TGtbX52YyJ",
   "Artist Rank": 2225,
   "Genre Rank": 3
@@ -3602,7 +3602,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Rose Avenue Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2orNXSkyIRgWWAVHRjjchs",
   "Artist Rank": 58212,
   "Genre Rank": "#DIV\/0!"
@@ -3690,7 +3690,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Arista Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0rvcPanRR8rQO8lSIr0S4l",
   "Artist Rank": 1350,
   "Genre Rank": 1
@@ -3701,7 +3701,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "WM Australia",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1FWluZedEH4D8F6TUZlGEB",
   "Artist Rank": 154616,
   "Genre Rank": 1
@@ -3734,7 +3734,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "TMRW Music",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0E3sFTJ9GFhRbq3HKxV3f9",
   "Artist Rank": 10402,
   "Genre Rank": 5
@@ -3778,7 +3778,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1Qs0q7K0Fz4PH98DorzOj8",
   "Artist Rank": 200282,
   "Genre Rank": "#DIV\/0!"
@@ -3833,7 +3833,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Biordi Music",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6mdexAmqt5bv08E3gem5ON",
   "Artist Rank": 27155,
   "Genre Rank": 2
@@ -3855,7 +3855,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Pack Records",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3LRQtyho3Sgn6tCCu1WKT0",
   "Artist Rank": 52562,
   "Genre Rank": 5
@@ -3910,7 +3910,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Lucy Lucy",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2AFRPkdCpULyeRRMN5JN2N",
   "Artist Rank": 88176,
   "Genre Rank": "#DIV\/0!"
@@ -3943,7 +3943,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Five AM",
-  "Genres": "null",
+  "Genres": "[\"Indie Rock\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4uabM4yUfyiVZrHEoLvQrc",
   "Artist Rank": 999999,
   "Genre Rank": 11
@@ -3976,7 +3976,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Zanderr Pierre\/Precise",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/16puej70zYEsJiqjv1X9GD",
   "Artist Rank": 177283,
   "Genre Rank": "#DIV\/0!"
@@ -3987,7 +3987,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Rya Park",
-  "Genres": "null",
+  "Genres": "[\"Pop Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6swECjtn3RUkQFng6ERivN",
   "Artist Rank": 418401,
   "Genre Rank": 17
@@ -3998,7 +3998,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Astral People Recordings",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/27SVYyaPLND6irEYe1c74M",
   "Artist Rank": 18401,
   "Genre Rank": "#DIV\/0!"
@@ -4042,7 +4042,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "DB Music",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2N2cB0q7KoZIix3hUGsJ05",
   "Artist Rank": 95522,
   "Genre Rank": 4
@@ -4141,7 +4141,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "ABG",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7e3fwnnyaHLIjmskaI5Dzi",
   "Artist Rank": 145086,
   "Genre Rank": 10
@@ -4163,7 +4163,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Cooking Vinyl Australia",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/61HNpajS94MeYkuVWJrtaP",
   "Artist Rank": 92260,
   "Genre Rank": "#DIV\/0!"
@@ -4207,7 +4207,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "ESP",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4LjYu3BWutmbJVbdRNCX6X",
   "Artist Rank": 531016,
   "Genre Rank": "#DIV\/0!"
@@ -4218,7 +4218,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Another Rat Records",
-  "Genres": "null",
+  "Genres": "[\"Punk Rock\",\"Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0Bp5vhnMMZYCk09jueEw9s",
   "Artist Rank": 235514,
   "Genre Rank": 37
@@ -4229,7 +4229,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "1370948 Records DK2",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4WEzPSv7axHEVRbujgku5r",
   "Artist Rank": 46397,
   "Genre Rank": 4
@@ -4240,7 +4240,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "MCK",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6ufTMIgflciiAb7mk2PAhg",
   "Artist Rank": 161713,
   "Genre Rank": 1
@@ -4273,7 +4273,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Sable Valley Records",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4lUqDI7XESYh7A13MulOjz",
   "Artist Rank": 30207,
   "Genre Rank": 3
@@ -4339,7 +4339,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Next Chapter Music",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3ypiFMIk9Jw5faCbyKLxTo",
   "Artist Rank": 139993,
   "Genre Rank": 1
@@ -4361,7 +4361,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Jude Korab",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\",\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/62hLMi1m4BsphQVoorlbXd",
   "Artist Rank": 999999,
   "Genre Rank": 3
@@ -4405,7 +4405,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Supergiant Records, LLC\/Def Jam Recordings",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/51Q4Pn44Ys7D8GCNzVLDmg",
   "Artist Rank": 759,
   "Genre Rank": 4
@@ -4416,7 +4416,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Five AM",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4ikD56PPTBVPvzumgYwkNT",
   "Artist Rank": 57833,
   "Genre Rank": "#DIV\/0!"
@@ -4427,7 +4427,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Castille",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2UwIUkE4rQk7dup2dOWgSY",
   "Artist Rank": 47180,
   "Genre Rank": "#DIV\/0!"
@@ -4482,7 +4482,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "WM Australia",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1aWP1QNo0EyUL84Ru4FRU4",
   "Artist Rank": 445037,
   "Genre Rank": 7
@@ -4548,7 +4548,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Daughters of Cain Records",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5Aq4CusaoqGNQlvNUUnA7t",
   "Artist Rank": 24626,
   "Genre Rank": 6
@@ -4559,7 +4559,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Dot Dash Recordings",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6fVOAp5F2r9fmtB2qrvTkK",
   "Artist Rank": 120450,
   "Genre Rank": 6
@@ -4581,7 +4581,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Since 93",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4OMMyboFDIWObz2kI7lX0d",
   "Artist Rank": 1153,
   "Genre Rank": "#DIV\/0!"
@@ -4636,7 +4636,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Ricky Rosen in partnership with Hundred Days Records",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/57oBl5Jzy76UWlmUazqzJx",
   "Artist Rank": 16300,
   "Genre Rank": "#DIV\/0!"
@@ -4669,7 +4669,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Forever Ever Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1NMwaoCYFyWcaqXohE1kpi",
   "Artist Rank": 136942,
   "Genre Rank": "#DIV\/0!"
@@ -4713,7 +4713,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "XL Recordings",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3DN8g2KmPKwvlyAWCM9mH7",
   "Artist Rank": 8560,
   "Genre Rank": 6
@@ -4801,7 +4801,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Goodwill",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2ewlNwfj1aU8iDhqIAogZp",
   "Artist Rank": 83598,
   "Genre Rank": 6
@@ -4856,7 +4856,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "P2022",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Indie Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0xMsn2VuXcfdf2Ksw4qz7G",
   "Artist Rank": 8960,
   "Genre Rank": 8
@@ -4911,7 +4911,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Carda",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0PEyJ20jDRKMKS07j9fMoz",
   "Artist Rank": 96659,
   "Genre Rank": 1
@@ -4977,7 +4977,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "ACTS Music Group",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3aMx9NNy1jRxvdfz6YoiFW",
   "Artist Rank": 300915,
   "Genre Rank": 1
@@ -5076,7 +5076,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "JYLPO",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/18EarjJzm91TbgHH7yjyZc",
   "Artist Rank": 78932,
   "Genre Rank": 3
@@ -5087,7 +5087,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Biordi Music",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3DwxjNGtJsfbZEEbqUaDlK",
   "Artist Rank": 999999,
   "Genre Rank": 4
@@ -5120,7 +5120,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "lilbubblegum records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1qbztgbGcJELSNHhFl5nuj",
   "Artist Rank": 11204,
   "Genre Rank": 2
@@ -5131,7 +5131,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Ghost Cat Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2761D6z19ksxVMO1JKvkYW",
   "Artist Rank": 61586,
   "Genre Rank": 1
@@ -5175,7 +5175,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Robots & Humans",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6Jfn2Ut4F7snIXmOp7LLco",
   "Artist Rank": 2792,
   "Genre Rank": 2
@@ -5197,7 +5197,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Biordi Music",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7mq35SUsRC8EL1TZUN9ZUW",
   "Artist Rank": 32854,
   "Genre Rank": 2
@@ -5219,7 +5219,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "[\"Country\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/26uOkeku8fbG2arUOGQi6H",
   "Artist Rank": 37293,
   "Genre Rank": 11
@@ -5263,7 +5263,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Republic Records",
-  "Genres": "null",
+  "Genres": "[\"Alternative Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6dGqGkYDoRrKh5UiIcTT22",
   "Artist Rank": 649,
   "Genre Rank": "#DIV\/0!"
@@ -5340,7 +5340,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Castille",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7K40BghEHMUOafChZ4VMbA",
   "Artist Rank": 27155,
   "Genre Rank": 2
@@ -5362,7 +5362,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "BHQ Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4Kttz3UZLMG8CUexnT6KIk",
   "Artist Rank": 43362,
   "Genre Rank": 2
@@ -5384,7 +5384,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "GYROrecords",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Pop Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3KsflPRAapD2s0BrQhtGJT",
   "Artist Rank": 72705,
   "Genre Rank": 11
@@ -5406,7 +5406,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Cellarr",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7HVCSj1QYaqp0tjkgOJm2G",
   "Artist Rank": 60334,
   "Genre Rank": 3
@@ -5428,7 +5428,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Say Less",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4J36A69pQBk0LQ7DWQTbAD",
   "Artist Rank": 313269,
   "Genre Rank": "#DIV\/0!"
@@ -5494,7 +5494,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Spinnup",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/236EkzpQgRh15KqngqKarG",
   "Artist Rank": 814129,
   "Genre Rank": "#DIV\/0!"
@@ -5505,7 +5505,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Sounds Good",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/60YeZiwow3kKAPvfyolXn6",
   "Artist Rank": 9840,
   "Genre Rank": "#DIV\/0!"
@@ -5516,7 +5516,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Beckah Amani",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0rnr29AKXifEZuGZWETZVG",
   "Artist Rank": 256781,
   "Genre Rank": "#DIV\/0!"
@@ -5593,7 +5593,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Poolroom.",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5CfByLV2NaoN4hempQWNLe",
   "Artist Rank": 999999,
   "Genre Rank": "#DIV\/0!"
@@ -5670,7 +5670,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "New Levels",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4YkwPpMpitflRbOW3L1KKI",
   "Artist Rank": 288564,
   "Genre Rank": "#DIV\/0!"
@@ -5681,7 +5681,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Oshua and YUJIN",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5T409yyUQQobP7Qzk5kjVX",
   "Artist Rank": 31565,
   "Genre Rank": 2
@@ -5692,7 +5692,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Ivy League Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6L3Ecpw0uGIuHhiDj25ohn",
   "Artist Rank": 619384,
   "Genre Rank": "#DIV\/0!"
@@ -5714,7 +5714,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1DiQ6jIw2rBwLSzEgYOKKC",
   "Artist Rank": 170741,
   "Genre Rank": "#DIV\/0!"
@@ -5769,7 +5769,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Fueled By Ramen",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4yWwiHbmOkDCZpUw8SYCMF",
   "Artist Rank": 59459,
   "Genre Rank": "#DIV\/0!"
@@ -5791,7 +5791,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "1300",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2T4XwrLVpnSFIxC503DDnO",
   "Artist Rank": 116886,
   "Genre Rank": 2
@@ -5802,7 +5802,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Warner Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1ei3hzQmrgealgRKFxIcWn",
   "Artist Rank": 615,
   "Genre Rank": 1
@@ -5824,7 +5824,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "DB Music",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6YGhqgMMsBCoxX73sEbwKv",
   "Artist Rank": 148545,
   "Genre Rank": 2
@@ -5868,7 +5868,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Domestic La La",
-  "Genres": "null",
+  "Genres": "[\"Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5zixLKYzuoJ3qP9sQqKR5x",
   "Artist Rank": 126919,
   "Genre Rank": 9
@@ -5879,7 +5879,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Sony Music Entertainment",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3y00AWgTQV4VOR130fHnpi",
   "Artist Rank": 64346,
   "Genre Rank": 10
@@ -5923,7 +5923,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "WM Australia",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6rCgN00t4al5TAqo4pNGOk",
   "Artist Rank": 27693,
   "Genre Rank": 1
@@ -5934,7 +5934,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Epic",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6LL5S3DGrUJ6cZRuDefguP",
   "Artist Rank": 191,
   "Genre Rank": 4
@@ -5956,7 +5956,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Steel City Dance Discs",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/52V5wpCwxwzWgNZczk0xRB",
   "Artist Rank": 33111,
   "Genre Rank": 3
@@ -6000,7 +6000,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Seven Seven Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\",\"Indie Pop\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1J8G0CHBF41VfbcJC1quTv",
   "Artist Rank": 128463,
   "Genre Rank": 6
@@ -6011,7 +6011,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Say Less",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5pJBODnZzMSVpverEbcq58",
   "Artist Rank": 170524,
   "Genre Rank": 4
@@ -6033,7 +6033,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Mel Blue",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7x6Mrgiwy7d4tpcbpRaOLa",
   "Artist Rank": 107640,
   "Genre Rank": 1
@@ -6044,7 +6044,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Neighbourhood Recordings",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/15rVXXprHKchfNG4kLnIqP",
   "Artist Rank": 22938,
   "Genre Rank": 1
@@ -6077,7 +6077,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Sony Music Entertainment",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4jmFQAiHWGmgUBIuWY74be",
   "Artist Rank": 241082,
   "Genre Rank": "#DIV\/0!"
@@ -6099,7 +6099,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "[\"Punk Rock\",\"Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0uVV4TDUwXQmacIpMatmDA",
   "Artist Rank": 103532,
   "Genre Rank": 37
@@ -6121,7 +6121,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Spikey John",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2xLSM6yo9hoS4dZ6dxwZcd",
   "Artist Rank": 389759,
   "Genre Rank": "#DIV\/0!"
@@ -6176,7 +6176,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Empire Records",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/10oC1ryAekkk99eZtbzb3x",
   "Artist Rank": 251567,
   "Genre Rank": 4
@@ -6275,7 +6275,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Meat Machine",
-  "Genres": "null",
+  "Genres": "[\"Post-Punk\",\"Punk Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5ab4DcmUYsZHDEOKTTbQEn",
   "Artist Rank": 73472,
   "Genre Rank": 135
@@ -6319,7 +6319,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "EMI Recorded Music Australia Pty Ltd",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4J88opd9z8SiPGz8NB13Fg",
   "Artist Rank": 265808,
   "Genre Rank": 4
@@ -6341,7 +6341,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Astral People Recordings",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/074Vujxd52c5IRO18GKJx7",
   "Artist Rank": 143393,
   "Genre Rank": 6
@@ -6363,7 +6363,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "WM Australia",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6QsYw9QAncTpd427TeF68p",
   "Artist Rank": 123291,
   "Genre Rank": 7
@@ -6440,7 +6440,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Yeloboi Tommy",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/56Volj0LMQoKTBDfqMjtfv",
   "Artist Rank": 56320,
   "Genre Rank": 2
@@ -6506,7 +6506,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "WM Australia",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6Aj8TG8jFUan8u3465iWh8",
   "Artist Rank": 38484,
   "Genre Rank": 1
@@ -6517,7 +6517,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "The Lazy Eyes",
-  "Genres": "null",
+  "Genres": "[\"Psychedelic Rock\",\"Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0dXdVTTo1hVSWvqEJQ04Gy",
   "Artist Rank": 54076,
   "Genre Rank": 9
@@ -6561,7 +6561,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Sony Music Entertainment",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4KCwSfHuTlD4brOo2mk88H",
   "Artist Rank": 146348,
   "Genre Rank": "#DIV\/0!"
@@ -6627,7 +6627,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Taigh Wade",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0MKq9pryJbJklXUXygOuHo",
   "Artist Rank": 198330,
   "Genre Rank": "#DIV\/0!"
@@ -6638,7 +6638,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Empire Of Song",
-  "Genres": "null",
+  "Genres": "[\"Country\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4NcRfij5JDR55DFTlxrDd4",
   "Artist Rank": 142135,
   "Genre Rank": 11
@@ -6649,7 +6649,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "EMI Recorded Music Australia Pty Ltd",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3roidInKXgWRTSZYLiZbUY",
   "Artist Rank": 122718,
   "Genre Rank": 1
@@ -6660,7 +6660,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Photo Finish Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6HdZ8l3sHVYgrcAAXTugKK",
   "Artist Rank": 5620,
   "Genre Rank": 1
@@ -6682,7 +6682,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Red Bull Records Inc\/Evgle LLC",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6VYBCG9nCZwUUImVqZQVet",
   "Artist Rank": 760,
   "Genre Rank": 2
@@ -6704,7 +6704,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Mwanje",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5B22C99j6dIYr8RuQPehn7",
   "Artist Rank": 198211,
   "Genre Rank": 4
@@ -6759,7 +6759,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Hector Morlet",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3gdgNW47nZXTo1qsAlh8RJ",
   "Artist Rank": 127628,
   "Genre Rank": 3
@@ -6770,7 +6770,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "EMI",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0MjMYoSWmtVYAhv1Uj3zQO",
   "Artist Rank": 14994,
   "Genre Rank": 1
@@ -6781,7 +6781,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Monstercat",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2NMdjMrdycTgwwOV1HSg6y",
   "Artist Rank": 27087,
   "Genre Rank": 7
@@ -6814,7 +6814,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "HØØKS",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3PzEWbtzi25IIK1DOSRsXU",
   "Artist Rank": 52612,
   "Genre Rank": "#DIV\/0!"
@@ -6847,7 +6847,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Nuxe and Zaini",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5usLoW191lHDEmgqefxEyd",
   "Artist Rank": 28134,
   "Genre Rank": 3
@@ -6858,7 +6858,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Avoca Drive",
-  "Genres": "null",
+  "Genres": "[\"Electronic\",\"House\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1Af7leoKf8dkatsECOVhs6",
   "Artist Rank": 46695,
   "Genre Rank": 9
@@ -6880,7 +6880,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Same Same Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5FuBh6ztXw5qf5wwgjpjEF",
   "Artist Rank": 264128,
   "Genre Rank": 2
@@ -6913,7 +6913,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Soothsayer",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2PVIDyIvXF5igvLPtOTEdZ",
   "Artist Rank": 130876,
   "Genre Rank": 3
@@ -7001,7 +7001,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Always Forward",
-  "Genres": "null",
+  "Genres": "[\"Indie Rock\",\"Pop Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7N2N8ift1Dgz9F2Sr7olH0",
   "Artist Rank": 999999,
   "Genre Rank": 19
@@ -7012,7 +7012,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Honeymoon",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4AmW5yhWe6CcQp5s80Ysdk",
   "Artist Rank": 96150,
   "Genre Rank": "#DIV\/0!"
@@ -7023,7 +7023,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Rosarrie",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0XIpcWXGMI8JnFy4tvH5G5",
   "Artist Rank": 153005,
   "Genre Rank": "#DIV\/0!"
@@ -7034,7 +7034,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Three Name Productions, Inc.\/ Island Records & Republic Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6Z165JvPnS8PYvGW8oLGLc",
   "Artist Rank": 921,
   "Genre Rank": 1
@@ -7045,7 +7045,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "JROCHEMAN",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3qnCv48et0cKW7FNJFGaD4",
   "Artist Rank": 121365,
   "Genre Rank": 1
@@ -7078,7 +7078,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/49pHQPuBjBlle5cpHh1Qz7",
   "Artist Rank": 119395,
   "Genre Rank": "#DIV\/0!"
@@ -7144,7 +7144,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Dream Life Records\/Since 93",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6PyDmJQd9gT9vBOc5aPAXw",
   "Artist Rank": 1153,
   "Genre Rank": 2
@@ -7166,7 +7166,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "MzUki",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0YymIzKTWEuZBOhVBh9Qoi",
   "Artist Rank": 377789,
   "Genre Rank": "#DIV\/0!"
@@ -7177,7 +7177,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "k1 productions",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/06Ww8nIKhlRhviaMZMcSRD",
   "Artist Rank": 999999,
   "Genre Rank": "#DIV\/0!"
@@ -7188,7 +7188,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Blossom Rot Records",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3Jpw5HxF5THbKRKnkWGtFb",
   "Artist Rank": 999999,
   "Genre Rank": 6
@@ -7276,7 +7276,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Republic Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5MlvAB51sadP8tIIhdXEkQ",
   "Artist Rank": 4244,
   "Genre Rank": 1
@@ -7342,7 +7342,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "BHQ Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2hwAugT0B9Xu7VGZnPh3Ur",
   "Artist Rank": 196116,
   "Genre Rank": 2
@@ -7375,7 +7375,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Hollywood Records",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4gBkCqlITvat2A3aYPtMqS",
   "Artist Rank": 12374,
   "Genre Rank": 6
@@ -7419,7 +7419,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Vicious",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/61RFA1kRnRCT8628NktUct",
   "Artist Rank": 33418,
   "Genre Rank": 7
@@ -7463,7 +7463,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Seven Seven Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\",\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/78Yqx4aoMLv6f7OUJVJrI8",
   "Artist Rank": 999999,
   "Genre Rank": 2
@@ -7485,7 +7485,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Sony Music Entertainment",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1uTrV3006bSyWRC53cG1F2",
   "Artist Rank": 234956,
   "Genre Rank": "#DIV\/0!"
@@ -7507,7 +7507,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Gracie Abrams, under exclusive license to Interscope Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7AX1eCw6qcX54PrDylynJr",
   "Artist Rank": 2980,
   "Genre Rank": 1
@@ -7562,7 +7562,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Trackmasters Entertainment\/RCA Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7qtncw0hAI6uTnR88oLXiq",
   "Artist Rank": 3980,
   "Genre Rank": 1
@@ -7628,7 +7628,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Palm Tree Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/76ZRoeAgtae628jiFYDLCT",
   "Artist Rank": 77668,
   "Genre Rank": 1
@@ -7694,7 +7694,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Universal Music Australia Pty. Ltd.",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5pBJEcwV19GHuxQnMcrBZY",
   "Artist Rank": 6601,
   "Genre Rank": 7
@@ -7727,7 +7727,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "WM Australia",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2DRI88vT79J2LBIabBsqY1",
   "Artist Rank": 32941,
   "Genre Rank": 2
@@ -7738,7 +7738,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "BMG Rights Management (Australia) Pty Ltd.",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1yf7KpJKsDEWtBdznkkGAH",
   "Artist Rank": 284110,
   "Genre Rank": 1
@@ -7771,7 +7771,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "WM Australia",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3X0XZgfQlit1TWFC5uRUAT",
   "Artist Rank": 22500,
   "Genre Rank": 1
@@ -7837,7 +7837,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "vnclm_\/Atlantic",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5bNjrg9hIcDqb2OLttzxlN",
   "Artist Rank": 6036,
   "Genre Rank": 6
@@ -7881,7 +7881,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Space 44",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2almShyfgUqAKxIjeJPNdw",
   "Artist Rank": 162356,
   "Genre Rank": 7
@@ -7892,7 +7892,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Oscar Oscar",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3Srt0ae32e92Ea2GEXPsMu",
   "Artist Rank": 23004,
   "Genre Rank": 3
@@ -7925,7 +7925,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Cellarr and Lilly Carron",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5IYTP8K3pDiH9EiYDzMMl1",
   "Artist Rank": 60334,
   "Genre Rank": 3
@@ -7958,7 +7958,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "YNG ONE",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2O2N11CRqTwKUYb0soTNIX",
   "Artist Rank": 152968,
   "Genre Rank": 1
@@ -8002,7 +8002,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "EMI Recorded Music Australia Pty Ltd",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5cKOsz0F1axLkPUpQdgbdY",
   "Artist Rank": 74488,
   "Genre Rank": "#DIV\/0!"
@@ -8024,7 +8024,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Domino Recording Co",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7CLIr0lZ4GWeHTaj9lNkXM",
   "Artist Rank": 4103,
   "Genre Rank": 6
@@ -8123,7 +8123,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Platoon",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5P5xuOwnMwaTY38yT8laSl",
   "Artist Rank": 30113,
   "Genre Rank": 3
@@ -8134,7 +8134,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "3379091 Records DK2",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3VS0zLSoa2ucmYCeIsA7kj",
   "Artist Rank": 64794,
   "Genre Rank": 2
@@ -8167,7 +8167,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Babyface Mal",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3SgqJA9TmiUJyXmZtsBXYr",
   "Artist Rank": 230201,
   "Genre Rank": 2
@@ -8189,7 +8189,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Hybrid Rose",
-  "Genres": "null",
+  "Genres": "[\"Adult Contemporary\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2VsXHMPqxlNSiBxGpnTonj",
   "Artist Rank": 318203,
   "Genre Rank": 91
@@ -8200,7 +8200,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Precise Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6GFgz62PMcoetssfQc3A5m",
   "Artist Rank": 178429,
   "Genre Rank": "#DIV\/0!"
@@ -8222,7 +8222,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Coalesce",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3q42AfqZP6dvTQBmTZWg1G",
   "Artist Rank": 288358,
   "Genre Rank": 10
@@ -8233,7 +8233,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "ACTS Music Group",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5reK4IbQK4Sk9QbH8rTsAm",
   "Artist Rank": 118338,
   "Genre Rank": "#DIV\/0!"
@@ -8244,7 +8244,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Biordi Music",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0KwwVrNjGqXzHswSeJsrx7",
   "Artist Rank": 32854,
   "Genre Rank": "#DIV\/0!"
@@ -8310,7 +8310,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "JVKE",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/33aLws184a7SVqraKuDqI3",
   "Artist Rank": 818,
   "Genre Rank": 10
@@ -8321,7 +8321,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Tone City Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3jdqR0iMfCAhcWBugDS8va",
   "Artist Rank": 30714,
   "Genre Rank": "#DIV\/0!"
@@ -8365,7 +8365,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Ivy League Records",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/09MWtKckcVk01jzxZjjc3e",
   "Artist Rank": 73605,
   "Genre Rank": 6
@@ -8387,7 +8387,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "No Money Enterprise",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4Wnnw2K8sZHxSn6aHDtZIZ",
   "Artist Rank": 55788,
   "Genre Rank": 2
@@ -8486,7 +8486,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "WM Australia",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7657WsBCt7nG7vvhAPd8vT",
   "Artist Rank": 12365,
   "Genre Rank": 2
@@ -8508,7 +8508,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "flowerovlove",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7Ck7GSPoBIDwNwcas05Sz1",
   "Artist Rank": 27695,
   "Genre Rank": 1
@@ -8596,7 +8596,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "LORA",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6Z53T7w8pY8MM8HxKMOvLO",
   "Artist Rank": 121365,
   "Genre Rank": 3
@@ -8673,7 +8673,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Biordi Music",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6i4HcGUwlfdiamDN8TJi8h",
   "Artist Rank": 75534,
   "Genre Rank": 4
@@ -8772,7 +8772,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Biordi Music",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2fShsVCCvgpELEJpbrz007",
   "Artist Rank": 17657,
   "Genre Rank": 2
@@ -8827,7 +8827,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Future Classic",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7zvpy4zhp5594U635c3SFL",
   "Artist Rank": 18664,
   "Genre Rank": 6
@@ -8838,7 +8838,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Hunnydew Recordings",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6laEKEHjds44RV91KfptRM",
   "Artist Rank": 166289,
   "Genre Rank": 10
@@ -8849,7 +8849,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Volkanik",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7BPOQ1sGCzVJucVj7AUWZS",
   "Artist Rank": 63800,
   "Genre Rank": "#DIV\/0!"
@@ -8860,7 +8860,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Therapy",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2RVbDkUFdnZcQuqHWOgZe1",
   "Artist Rank": 19000,
   "Genre Rank": 7
@@ -8904,7 +8904,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Drest",
-  "Genres": "null",
+  "Genres": "[\"Indie Rock\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5skgOFYQkNQrUmw7fRRLLe",
   "Artist Rank": 999999,
   "Genre Rank": 11
@@ -8915,7 +8915,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Sony Music Entertainment",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0h7dFugHT8mzD6BdfazMbC",
   "Artist Rank": 342455,
   "Genre Rank": 5
@@ -9014,7 +9014,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Universal Music Australia Pty. Ltd.",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2TsSlgxWzb6InYCgktkQre",
   "Artist Rank": 326049,
   "Genre Rank": 6
@@ -9025,7 +9025,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Chapter Music",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6y3rQBSI1xeSEOLiar5LOy",
   "Artist Rank": 786562,
   "Genre Rank": "#DIV\/0!"
@@ -9036,7 +9036,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Same Same Records",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6kPu6kLpEgYJDlwLuRt8sD",
   "Artist Rank": 999999,
   "Genre Rank": 4
@@ -9047,7 +9047,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Jamaica Moana",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/170SC74pnstTluE7dByoJe",
   "Artist Rank": 256268,
   "Genre Rank": "#DIV\/0!"
@@ -9058,7 +9058,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Preach Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3lFM8U9ZS5IBbX4hmt2iud",
   "Artist Rank": 18754,
   "Genre Rank": 2
@@ -9080,7 +9080,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Ashli",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4fp34qCt027BJGROwGDeQh",
   "Artist Rank": 291141,
   "Genre Rank": "#DIV\/0!"
@@ -9124,7 +9124,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "PARK RD",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/31u1rCEa4u9LhWIFVjim47",
   "Artist Rank": 144026,
   "Genre Rank": 5
@@ -9201,7 +9201,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "I OH YOU",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0GwtFW2OgpVv6wzS9IUhQd",
   "Artist Rank": 64167,
   "Genre Rank": 3
@@ -9245,7 +9245,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Sarah Saint James",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2rePCKPN3N4ZUZeSoF5vCt",
   "Artist Rank": 172991,
   "Genre Rank": 1
@@ -9256,7 +9256,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "drea",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4hIFGfpxNQp4RzjGlaxEYN",
   "Artist Rank": 371668,
   "Genre Rank": "#DIV\/0!"
@@ -9278,7 +9278,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Stay On Sight Recordings",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1NaDhOd9SH3Q81ZUotAoI8",
   "Artist Rank": 106662,
   "Genre Rank": "#DIV\/0!"
@@ -9333,7 +9333,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Sony Music Entertainment",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0a2JlJtpb9M5C7lwCdL7vQ",
   "Artist Rank": 6322,
   "Genre Rank": 1
@@ -9377,7 +9377,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Same Same Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4Ns62r4p5eRBe6gOsiIi0C",
   "Artist Rank": 180507,
   "Genre Rank": 1
@@ -9388,7 +9388,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "New Levels",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2q4mCp49FNXqQaYtWf6MnV",
   "Artist Rank": 29590,
   "Genre Rank": 4
@@ -9399,7 +9399,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "TMRW Music",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0W0l8TQpR45lkIlwOkM2Ei",
   "Artist Rank": 30778,
   "Genre Rank": "#DIV\/0!"
@@ -9410,7 +9410,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Go-Jo",
-  "Genres": "null",
+  "Genres": "[\"Pop\",\"Pop Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3gqP3v0tNGHDDNhAAhms7W",
   "Artist Rank": 120253,
   "Genre Rank": 9
@@ -9432,7 +9432,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Mixr Entertainment",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/36qiCg2R7YWhoRPrjGDyup",
   "Artist Rank": 177331,
   "Genre Rank": "#DIV\/0!"
@@ -9465,7 +9465,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/08WxwaUhle3yg04zCKe4UC",
   "Artist Rank": 560033,
   "Genre Rank": "#DIV\/0!"
@@ -9476,7 +9476,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Capitol",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6pyh4lkDS5FzWBz9y8Wu0S",
   "Artist Rank": 1097,
   "Genre Rank": 1
@@ -9509,7 +9509,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "TMRW Music",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5Ph4Bccx9ge5aBcswqyqvH",
   "Artist Rank": 42183,
   "Genre Rank": 5
@@ -9520,7 +9520,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "lilbubblegum records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6MWAjPXdw19mWpZxFZ1XPW",
   "Artist Rank": 11204,
   "Genre Rank": 2
@@ -9608,7 +9608,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Universal Music New Zealand Limited",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6nuF9yBan5jRCBX8rQGd0r",
   "Artist Rank": 57678,
   "Genre Rank": "#DIV\/0!"
@@ -9641,7 +9641,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Universal Music Australia Pty. Ltd.",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2Lo6dinJC6pLfMRK2H0ehd",
   "Artist Rank": 210981,
   "Genre Rank": "#DIV\/0!"
@@ -9685,7 +9685,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Atlantic Records\/Arthouse Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6FpU7rjYGiCScT8H7cEOpv",
   "Artist Rank": 600,
   "Genre Rank": 1
@@ -9696,7 +9696,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Universal-Island Records Ltd.",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3NWzA0reKxIRyXPZtBHTDB",
   "Artist Rank": 1924,
   "Genre Rank": "#DIV\/0!"
@@ -9817,7 +9817,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Universal Music New Zealand Limited (Distribution)",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6MnwlWt1UUPTsaaULrv2Nl",
   "Artist Rank": 65717,
   "Genre Rank": 1
@@ -9839,7 +9839,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Saint Lucky Records",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/427JUJckVwkdx0susZPzjh",
   "Artist Rank": 176867,
   "Genre Rank": 5
@@ -9861,7 +9861,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Big Crown Records",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/52UZeJDH1dF4xp8BRPHF4y",
   "Artist Rank": 43455,
   "Genre Rank": "#DIV\/0!"
@@ -9894,7 +9894,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Liberation Records",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0KsX41llne8z0tX1kyTXwo",
   "Artist Rank": 999999,
   "Genre Rank": 6
@@ -9938,7 +9938,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Anti Fade Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1iDAmcLIq7Yxkcurt8KpX6",
   "Artist Rank": 999999,
   "Genre Rank": "#DIV\/0!"
@@ -9993,7 +9993,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "DMO",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1x3U1l5mI0KK0nrRAmXJlC",
   "Artist Rank": 999999,
   "Genre Rank": "#DIV\/0!"
@@ -10015,7 +10015,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "NLV Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2vYT8WBevNgWC5f3pl9ABx",
   "Artist Rank": 123291,
   "Genre Rank": "#DIV\/0!"
@@ -10037,7 +10037,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Universal Music Australia Pty. Ltd.",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1OL0iKcBz7xSvNtrU0xNaw",
   "Artist Rank": 197797,
   "Genre Rank": 6
@@ -10059,7 +10059,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Bri Clark Music",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6k44SoOS49ALxxMKPOksAG",
   "Artist Rank": 999999,
   "Genre Rank": "#DIV\/0!"
@@ -10191,7 +10191,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "ELEFANT TRAKS",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0F9hn9OflYiKeD0uXzFANd",
   "Artist Rank": 238276,
   "Genre Rank": 4
@@ -10202,7 +10202,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Broth Records",
-  "Genres": "null",
+  "Genres": "[\"Folk\",\"Folk Singer\/Songwriter\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2U2q6jIq0X8r0f95yG1sn5",
   "Artist Rank": 245292,
   "Genre Rank": 103
@@ -10213,7 +10213,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Universal Music Australia Pty. Ltd.",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5bZaY9vX9EWdTkTEi6uNMZ",
   "Artist Rank": 597314,
   "Genre Rank": 2
@@ -10224,7 +10224,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Columbia",
-  "Genres": "null",
+  "Genres": "[\"Country\",\"Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4o5XagsRjI8g1lGryYhrGD",
   "Artist Rank": 10300,
   "Genre Rank": 10
@@ -10246,7 +10246,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "IMMUNE Recordings",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1vfAXBsAMBWUmm4qN0aJqv",
   "Artist Rank": 28939,
   "Genre Rank": "#DIV\/0!"
@@ -10268,7 +10268,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "MyCringe",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5cEEr3T4ZkRWGW9KjNKgtL",
   "Artist Rank": 238712,
   "Genre Rank": "#DIV\/0!"
@@ -10301,7 +10301,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "HIJINXX",
-  "Genres": "null",
+  "Genres": "[\"Drum And Bass\",\"Jungle\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5Y8LjJ9Riiw8i5d6D06fYS",
   "Artist Rank": 15636,
   "Genre Rank": 145
@@ -10345,7 +10345,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Republic Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5GIsnSmSyFM8dI3e4dP1G5",
   "Artist Rank": 3610,
   "Genre Rank": 1
@@ -10389,7 +10389,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "YKK",
-  "Genres": "null",
+  "Genres": "[\"Indie R&B\",\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4GLfW8z5F3DN8RcCfCXH77",
   "Artist Rank": 28755,
   "Genre Rank": 28
@@ -10422,7 +10422,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Biordi Music",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/577o8dF3FtOvCMiN56ilmz",
   "Artist Rank": 52965,
   "Genre Rank": 4
@@ -10455,7 +10455,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Warner Records UK",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4X8JkeMSFFiVpWqIpS6ajC",
   "Artist Rank": 14559,
   "Genre Rank": 1
@@ -10521,7 +10521,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1o2SurUyAJFFkf0kjSMKo1",
   "Artist Rank": 397978,
   "Genre Rank": 1
@@ -10620,7 +10620,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Wesley Black",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1slqA6xtqFb60fDiIumBv1",
   "Artist Rank": 999999,
   "Genre Rank": "#DIV\/0!"
@@ -10631,7 +10631,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Dinosaur City Records",
-  "Genres": "null",
+  "Genres": "[\"Indie Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3SOm77TY6qpZQEQqqm7mcv",
   "Artist Rank": 999999,
   "Genre Rank": 22
@@ -10664,7 +10664,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "secret jadu",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6KRO7OHvU06db0VbOmjBeD",
   "Artist Rank": 23100,
   "Genre Rank": 3
@@ -10675,7 +10675,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Boss Level",
-  "Genres": "null",
+  "Genres": "[\"Electro\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3stQUUrl7Qo2Ghx1kseSD2",
   "Artist Rank": 65135,
   "Genre Rank": 29
@@ -10697,7 +10697,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "BHQ Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/52BylVuxNpng56UeZYUEnA",
   "Artist Rank": 185350,
   "Genre Rank": "#DIV\/0!"
@@ -10796,7 +10796,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Ophelia",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1AJ4HIL7Aj9hXjl1plAkJk",
   "Artist Rank": 20380,
   "Genre Rank": 7
@@ -10818,7 +10818,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "I OH YOU",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1f1cJsfYXPv94o5gV4DvYD",
   "Artist Rank": 376549,
   "Genre Rank": 6
@@ -10895,7 +10895,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "1629772 Records DK",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/53vnp4yNfgLRjT1jfcukkq",
   "Artist Rank": 26581,
   "Genre Rank": 2
@@ -10917,7 +10917,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Biordi Music",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/51H2B4LKerv6hLinFydHbC",
   "Artist Rank": 51354,
   "Genre Rank": 3
@@ -10939,7 +10939,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "ABG",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3ypx2iCs9VyghLu5zuqdZ5",
   "Artist Rank": 43002,
   "Genre Rank": "#DIV\/0!"
@@ -10972,7 +10972,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Arista Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/77gpwRWeMlZeIUI9QDoDVZ",
   "Artist Rank": 6410,
   "Genre Rank": 1
@@ -11016,7 +11016,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "David Kushner",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/39ZVkOVxjG8ypNdUSVNkxU",
   "Artist Rank": 6151,
   "Genre Rank": 1
@@ -11027,7 +11027,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Rose Avenue Records",
-  "Genres": "null",
+  "Genres": "[\"EDM\",\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5OJk2tukjyaiaFyJXtUQqf",
   "Artist Rank": 4258,
   "Genre Rank": 5
@@ -11060,7 +11060,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "New Levels",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4DsRgTgw9ywVRrYCCpraTv",
   "Artist Rank": 16664,
   "Genre Rank": 4
@@ -11170,7 +11170,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "GLOCSTARR",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2LGZm5s8GlvezddeNg3wku",
   "Artist Rank": 11204,
   "Genre Rank": 2
@@ -11181,7 +11181,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Atlantic Records UK",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\",\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2koM4vqlpUzeRbNkjsDBwF",
   "Artist Rank": 839,
   "Genre Rank": 3
@@ -11203,7 +11203,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "ARKH Limited",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0vskk30glZXrCudvITuVwA",
   "Artist Rank": 284374,
   "Genre Rank": "#DIV\/0!"
@@ -11214,7 +11214,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Hy-Lo Creative Studios",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7nxyOFmn57FrSek6DkU5Gd",
   "Artist Rank": 668411,
   "Genre Rank": "#DIV\/0!"
@@ -11247,7 +11247,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5oaVzxZ0HeGcm3RqB8WnMx",
   "Artist Rank": 510868,
   "Genre Rank": "#DIV\/0!"
@@ -11269,7 +11269,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Spinnin' Records",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2EQgtNy4r3nNhp8kruQMaQ",
   "Artist Rank": 17786,
   "Genre Rank": 7
@@ -11291,7 +11291,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Warner Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6h1s7cKnUtsbRpE5bwnUTf",
   "Artist Rank": 341,
   "Genre Rank": 1
@@ -11346,7 +11346,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "JVKE",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0ZHSbNRrrfAs8hwEuecJM6",
   "Artist Rank": 818,
   "Genre Rank": 1
@@ -11357,7 +11357,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "nowhere fast",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5d3FBrRB65AExn9CO8tNLZ",
   "Artist Rank": 47556,
   "Genre Rank": 1
@@ -11379,7 +11379,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "HERE FOREVER",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/59hh37zWRQakEyOraKJaPe",
   "Artist Rank": 6688,
   "Genre Rank": 2
@@ -11390,7 +11390,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "JAKE",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1JFkjNCaNYhnRp6VsOtA0C",
   "Artist Rank": 999999,
   "Genre Rank": 4
@@ -11401,7 +11401,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "New Levels",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/79VHEUpHdLlznfriORDCTi",
   "Artist Rank": 29590,
   "Genre Rank": "#DIV\/0!"
@@ -11434,7 +11434,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Hey! Astro",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1lppoezKxRtAncYPlzwKKa",
   "Artist Rank": 68296,
   "Genre Rank": 2
@@ -11456,7 +11456,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Real Reserves Records",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5VAqM9kXQs8nmoDSb4vqtj",
   "Artist Rank": 10033,
   "Genre Rank": "#DIV\/0!"
@@ -11489,7 +11489,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "No Money Enterprise",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0VC5JJ1DVONoX1tv77nxLm",
   "Artist Rank": 55788,
   "Genre Rank": "#DIV\/0!"
@@ -11511,7 +11511,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Sounds Good\/Capitol Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6mWCikZXHCCnEwkwyJ2L8G",
   "Artist Rank": 600,
   "Genre Rank": 1
@@ -11533,7 +11533,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Central Cee",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/709MdyUol3Qfgcowmd7KV4",
   "Artist Rank": 706,
   "Genre Rank": 2
@@ -11577,7 +11577,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Universal Music New Zealand Limited",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1TqV1m7XN6Y5jhwoZC6GKM",
   "Artist Rank": 85001,
   "Genre Rank": 3
@@ -11610,7 +11610,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "DB Music",
-  "Genres": "null",
+  "Genres": "[\"Pop\",\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5Gt9iaBiUWHuiQDOrCAVN4",
   "Artist Rank": 61796,
   "Genre Rank": 2
@@ -11643,7 +11643,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Future Classic",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0KL0lhLgQ2SlpfENW6dnQq",
   "Artist Rank": 70555,
   "Genre Rank": 3
@@ -11654,7 +11654,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Mute",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4tAIZ4jqnYtuZwx5trVtbE",
   "Artist Rank": 19110,
   "Genre Rank": 3
@@ -11687,7 +11687,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Ivy League Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7BmSy7lf9pPK1X1y0xfgzo",
   "Artist Rank": 142663,
   "Genre Rank": "#DIV\/0!"
@@ -11698,7 +11698,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Harbour Artists & Music",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3rX7jCeMKpyHH6bFohXcWd",
   "Artist Rank": 5231,
   "Genre Rank": 6
@@ -11709,7 +11709,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Parinam Music",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3mW60TGPwzkLxCTqK0grhR",
   "Artist Rank": 127669,
   "Genre Rank": 5
@@ -11742,7 +11742,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Amiide",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1H9RljOIfrpDXj8tBYi746",
   "Artist Rank": 130755,
   "Genre Rank": "#DIV\/0!"
@@ -11764,7 +11764,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Jay Red Music Group",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7unffucKdD9uCsocyWT9ZP",
   "Artist Rank": 16066,
   "Genre Rank": "#DIV\/0!"
@@ -11797,7 +11797,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Spirit Level",
-  "Genres": "null",
+  "Genres": "[\"EDM\",\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0bp9I0TXCnPZ3mkamkidmB",
   "Artist Rank": 153444,
   "Genre Rank": 5
@@ -11808,7 +11808,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "YNG",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/63E37UJMBYgFkhOAvAmLP3",
   "Artist Rank": 16102,
   "Genre Rank": 2
@@ -11830,7 +11830,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Dinosaur City Records",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1Crj72TC7BtnI8waRGsDdS",
   "Artist Rank": 791902,
   "Genre Rank": 10
@@ -11852,7 +11852,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Vibin Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/61zhTW256qXNoLx46nNJV2",
   "Artist Rank": 41613,
   "Genre Rank": 1
@@ -11940,7 +11940,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "JUICEY",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/350MlI4iDtv6fYwM4PKSA4",
   "Artist Rank": 14577,
   "Genre Rank": 4
@@ -11973,7 +11973,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Elijah Yo",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6YZxG6fLoPm8ISK11xMu08",
   "Artist Rank": 146592,
   "Genre Rank": 4
@@ -11984,7 +11984,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Columbia",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3s4WVKaSU112SfRBjvyXKp",
   "Artist Rank": 1331,
   "Genre Rank": 6
@@ -12017,7 +12017,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Worse Records",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2aCBM6krJiiJST1lx7ZlGr",
   "Artist Rank": 72561,
   "Genre Rank": 7
@@ -12061,7 +12061,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "046 Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6Jmg6uqMCjRRnKCpAEvcCZ",
   "Artist Rank": 70347,
   "Genre Rank": 2
@@ -12171,7 +12171,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Epic\/Vol. 1",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5CmIIBRVQWLX2uXAkuBlS8",
   "Artist Rank": 11741,
   "Genre Rank": 1
@@ -12215,7 +12215,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Arcadia Records",
-  "Genres": "null",
+  "Genres": "[\"Indie Rock\",\"Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6JYN2Hd4epevdPQUr636J8",
   "Artist Rank": 999999,
   "Genre Rank": 15
@@ -12259,7 +12259,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Mom+Pop",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3Jq0vjC96tJlUVAdKfMajk",
   "Artist Rank": 10343,
   "Genre Rank": "#DIV\/0!"
@@ -12314,7 +12314,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Modablaq Musiq",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6T4SujePoy0ycykUFR2k9X",
   "Artist Rank": 166256,
   "Genre Rank": "#DIV\/0!"
@@ -12336,7 +12336,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Independant",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0xEMcHaMejo1kbCbg5smvZ",
   "Artist Rank": 54895,
   "Genre Rank": 1
@@ -12358,7 +12358,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "[\"Country\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1ri3fquyE7rkzWerCCoGCy",
   "Artist Rank": 291850,
   "Genre Rank": 11
@@ -12380,7 +12380,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "This Is Bad Wolf",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1eG6ogBMDCT36ciEocKV8V",
   "Artist Rank": 59454,
   "Genre Rank": 7
@@ -12391,7 +12391,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Kamaliza",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1CZ4cp52ESQXhZd8SRF8Ma",
   "Artist Rank": 49899,
   "Genre Rank": 4
@@ -12402,7 +12402,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "BHQ Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0igYALStTLq74Xo5OLiywe",
   "Artist Rank": 185350,
   "Genre Rank": 2
@@ -12424,7 +12424,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/28yPEYKvKjWkoZ3ke39AmG",
   "Artist Rank": 42790,
   "Genre Rank": "#DIV\/0!"
@@ -12435,7 +12435,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Universal Music (Thailand) Ltd.",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0VTM61Pe3WBw79oEXTbhWE",
   "Artist Rank": 129640,
   "Genre Rank": 6
@@ -12501,7 +12501,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "NLV Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6ps4hHdnIM37lSSRarQV6M",
   "Artist Rank": 439680,
   "Genre Rank": "#DIV\/0!"
@@ -12523,7 +12523,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Ophelia",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0XdmzOmGiPoNEfNK4BslVo",
   "Artist Rank": 20380,
   "Genre Rank": 7
@@ -12600,7 +12600,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "WM New Zealand",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/479UpDSxutdMNk46g0rsiB",
   "Artist Rank": 103428,
   "Genre Rank": 3
@@ -12611,7 +12611,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Island Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/62Vz24WH66GYadBPFJKwT7",
   "Artist Rank": 5393,
   "Genre Rank": 1
@@ -12633,7 +12633,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Julius Black",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4NZwAKr8rYOa1lvFmvHacm",
   "Artist Rank": 172355,
   "Genre Rank": 1
@@ -12644,7 +12644,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Republic Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5HydZtPFOvbmqXiTcTFykW",
   "Artist Rank": 3610,
   "Genre Rank": 1
@@ -12765,7 +12765,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Atlantic Records",
-  "Genres": "null",
+  "Genres": "[\"EDM\",\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1447z3NQY5Dg6oik6Zh5rw",
   "Artist Rank": 1616,
   "Genre Rank": 5
@@ -12787,7 +12787,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "EMI Recorded Music Australia Pty Ltd",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2w7Li4lbevrPrPSY7pGpxG",
   "Artist Rank": 138252,
   "Genre Rank": "#DIV\/0!"
@@ -12809,7 +12809,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Biordi Music",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0gYE4nGUXwlzNBwxW5SSiX",
   "Artist Rank": 20606,
   "Genre Rank": 3
@@ -12831,7 +12831,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "EMI Recorded Music Australia Pty Ltd",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2au4DyNFX59VLV5elmhagj",
   "Artist Rank": 65755,
   "Genre Rank": 1
@@ -12864,7 +12864,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Bodega Collective",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3fFZ8NCCsXR8Rthbb1sFbH",
   "Artist Rank": 201941,
   "Genre Rank": "#DIV\/0!"
@@ -12875,7 +12875,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Say Less",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6OxoIcvexK5hRQqCeseXeH",
   "Artist Rank": 170524,
   "Genre Rank": "#DIV\/0!"
@@ -12897,7 +12897,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Fair Youth",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4nVOYfb12WYgZD6EtGH5BD",
   "Artist Rank": 47270,
   "Genre Rank": "#DIV\/0!"
@@ -12985,7 +12985,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Minor Premiers",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6qxNFSNu8iPrlnAepu7uOa",
   "Artist Rank": 456566,
   "Genre Rank": "#DIV\/0!"
@@ -13062,7 +13062,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "BIGHIT MUSIC",
-  "Genres": "null",
+  "Genres": "[\"K-Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7CAdT0HdiQNlt1C7xk2hep",
   "Artist Rank": 169,
   "Genre Rank": 28
@@ -13073,7 +13073,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Teamwrk Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7hVasQBMXlP5BrtaeKetWA",
   "Artist Rank": 366956,
   "Genre Rank": "#DIV\/0!"
@@ -13117,7 +13117,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "One Of A Kind Music",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3FMedgGsLUNwx8NciePFEK",
   "Artist Rank": 1153,
   "Genre Rank": 2
@@ -13150,7 +13150,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "stuff to think about.",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7wEwCrjCcEMApU96TxvytY",
   "Artist Rank": 220662,
   "Genre Rank": "#DIV\/0!"
@@ -13326,7 +13326,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Bold Cut",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4z9VuRI0SGk6mZXRRZyT7Z",
   "Artist Rank": 9956,
   "Genre Rank": 6
@@ -13337,7 +13337,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Jezzabell Doran",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3wOD0bhe088lSBlE9rZgzY",
   "Artist Rank": 39786,
   "Genre Rank": 4
@@ -13348,7 +13348,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Trouble In Mind Records",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2GX6OTogyEMbif05uykW6X",
   "Artist Rank": 125809,
   "Genre Rank": 6
@@ -13359,7 +13359,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "New Levels",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5hJjkBQ1EqAWRLGerSLkhh",
   "Artist Rank": 49545,
   "Genre Rank": 3
@@ -13392,7 +13392,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5ufg93Ab9Cx3Sha7mzy9e2",
   "Artist Rank": 999999,
   "Genre Rank": 1
@@ -13403,7 +13403,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Randa",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2Yg9vhkhktou9eADbsxF2L",
   "Artist Rank": 177864,
   "Genre Rank": 2
@@ -13447,7 +13447,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "NHMS Records\/Homemade Projects\/10K Projects",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5zDo9mZyUdCZ1tVj515SZS",
   "Artist Rank": 10043,
   "Genre Rank": 1
@@ -13458,7 +13458,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Armada Music",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4EWnfhH9PQt6QfEjDOYKiS",
   "Artist Rank": 3068,
   "Genre Rank": 7
@@ -13469,7 +13469,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Victor Victor Worldwide",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0JGXmt0UISP8sttvwFvT76",
   "Artist Rank": 12365,
   "Genre Rank": 1
@@ -13612,7 +13612,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Republic Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4cqj8FIWkyR5A2XBtcqRMU",
   "Artist Rank": 11472,
   "Genre Rank": 1
@@ -13744,7 +13744,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Dreamer Isioma LLC",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6ui76rE0geLZvF57z4fPK2",
   "Artist Rank": 9821,
   "Genre Rank": 6
@@ -13755,7 +13755,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Doul",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/45wqUOhtYiE76OW7Us7Tqx",
   "Artist Rank": 162955,
   "Genre Rank": 1
@@ -13777,7 +13777,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Adventure Wave",
-  "Genres": "null",
+  "Genres": "[\"Indie Rock\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2JoNqjOOEn1VsiDMS3BQ85",
   "Artist Rank": 581927,
   "Genre Rank": 11
@@ -13887,7 +13887,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Aston Music",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6HoZUmprRfFWO1CaqkiBUP",
   "Artist Rank": 33472,
   "Genre Rank": 1
@@ -13898,7 +13898,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Helium Records Pty Ltd",
-  "Genres": "null",
+  "Genres": "[\"Country\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3iGJtZHxtI3O8qD3Iy4vjv",
   "Artist Rank": 179651,
   "Genre Rank": 11
@@ -13964,7 +13964,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Chris Bates",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1ahc61DlTWmXWSE0SeZnNz",
   "Artist Rank": 377313,
   "Genre Rank": 1
@@ -13975,7 +13975,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Arista Records",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3fuaISGMWzSNjkcdeUJUb9",
   "Artist Rank": 7386,
   "Genre Rank": 4
@@ -14096,7 +14096,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "lilbubblegum records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/35AVeggmlf4sppjt86NikO",
   "Artist Rank": 11204,
   "Genre Rank": 2
@@ -14107,7 +14107,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Atlantic Records",
-  "Genres": "null",
+  "Genres": "[\"Alternative\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2QgZpszbkDWUYtf0Khmrge",
   "Artist Rank": 4523,
   "Genre Rank": 3
@@ -14129,7 +14129,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0Xq9BOllUO2QlWoNw2hwnl",
   "Artist Rank": 98412,
   "Genre Rank": "#DIV\/0!"
@@ -14283,7 +14283,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "jennadoe",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/08KAB8LahxJB28HExOmPnL",
   "Artist Rank": 84345,
   "Genre Rank": "#DIV\/0!"
@@ -14294,7 +14294,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Pointer Recordings",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1NDkiGFBqrbfJS7b4wsW2x",
   "Artist Rank": 485488,
   "Genre Rank": "#DIV\/0!"
@@ -14382,7 +14382,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Atlantic Records UK",
-  "Genres": "null",
+  "Genres": "[\"EDM\",\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5UatawMsGULDVG2h8wE1KS",
   "Artist Rank": 1616,
   "Genre Rank": 5
@@ -14393,7 +14393,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Harbour Artists & Music",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/65LMre3AmSBiaHhdw7l57l",
   "Artist Rank": 5231,
   "Genre Rank": 6
@@ -14426,7 +14426,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Mirror Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1tCzRaxUdrbwgD8JhpZNZ3",
   "Artist Rank": 389800,
   "Genre Rank": "#DIV\/0!"
@@ -14437,7 +14437,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Owen Doan and Oshu",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\",\"Pop Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0YfvkdUqg9ijrZ8ueWV5C6",
   "Artist Rank": 999999,
   "Genre Rank": 9
@@ -14481,7 +14481,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Stacey Ryan",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0IKpTI3268FUkZ2Z606A0u",
   "Artist Rank": 20206,
   "Genre Rank": 4
@@ -14492,7 +14492,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "AREYOU",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5CH8ZZZdoBASLeFb2iCeHv",
   "Artist Rank": 758780,
   "Genre Rank": 2
@@ -14536,7 +14536,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Polydor Records",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5dXiKFepHXZktud7z5635H",
   "Artist Rank": 6232,
   "Genre Rank": 6
@@ -14547,7 +14547,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Atlantic Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6WXvM7Ku5aM7SfdXym7DEN",
   "Artist Rank": 1332,
   "Genre Rank": 1
@@ -14569,7 +14569,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Modern Day Entertainment",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4p0xtv5h5rWslgm07JfWX6",
   "Artist Rank": 44934,
   "Genre Rank": 2
@@ -14580,7 +14580,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Elle Eliades",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1XHIUuIiaXkSupqb69LTnt",
   "Artist Rank": 211218,
   "Genre Rank": 4
@@ -14613,7 +14613,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Sax",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/13AmahZAmMYp7Who3zkdW5",
   "Artist Rank": 38229,
   "Genre Rank": 2
@@ -14624,7 +14624,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "Warner Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1BV7YtzsoKAF2cULDHLe2K",
   "Artist Rank": 16075,
   "Genre Rank": 1
@@ -14635,7 +14635,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1iLIXsEqo1fBPDGvrLLgYI",
   "Artist Rank": 73577,
   "Genre Rank": "#DIV\/0!"
@@ -14646,7 +14646,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Grrrl Groannn",
-  "Genres": "null",
+  "Genres": "[\"Soft Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0qs7yTBz9ESbtMg8iqWU4r",
   "Artist Rank": 8652,
   "Genre Rank": 83
@@ -14657,7 +14657,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "VIOLET HIGH, LLC",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5UEnl8IntXqIABMLOIrz2l",
   "Artist Rank": 10855,
   "Genre Rank": "#DIV\/0!"
@@ -14679,7 +14679,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Ophelia",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4YEakHI6sat9bV875QBNcW",
   "Artist Rank": 20380,
   "Genre Rank": 7
@@ -14690,7 +14690,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Sadfriendd",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/44bIBmxuHPevu7YRbnIbkT",
   "Artist Rank": 1490,
   "Genre Rank": 2
@@ -14745,7 +14745,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Capitol Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/35jHNbOE3tKh8DW0CMi1ck",
   "Artist Rank": 21041,
   "Genre Rank": 1
@@ -14800,7 +14800,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Little Worry\/RCA Records",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7mMzlK2pYVbgkUL1zaGGyV",
   "Artist Rank": 2315,
   "Genre Rank": 1
@@ -14833,7 +14833,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "lullaboy",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4GwIJFFipIzqF6ZvQ9vZd7",
   "Artist Rank": 19207,
   "Genre Rank": 10
@@ -14866,7 +14866,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "secret jadu",
-  "Genres": "null",
+  "Genres": "[\"Electronic\",\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/56Y3XXmxpKKc9pGQcTZYNk",
   "Artist Rank": 23100,
   "Genre Rank": 2
@@ -14888,7 +14888,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Trench Records",
-  "Genres": "null",
+  "Genres": "[\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5JX8aoBU0tNq98p6lWwd16",
   "Artist Rank": 85478,
   "Genre Rank": 3
@@ -14921,7 +14921,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "CHRISTOS",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\",\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5o5cRre1h0G5KlQt0uXzqH",
   "Artist Rank": 296087,
   "Genre Rank": 3
@@ -14943,7 +14943,7 @@
   "Label Group": "Major",
   "Label Parent": "WMG",
   "Label": "WM New Zealand",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4mO3tgKhdb21D92dDmgnCR",
   "Artist Rank": 999999,
   "Genre Rank": "#DIV\/0!"
@@ -14954,7 +14954,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Teamwrk Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4X9tbchY9jxgudC3B5xN4a",
   "Artist Rank": 281952,
   "Genre Rank": 2
@@ -14976,7 +14976,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "ONNAFRIDAY",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1f32820VZo8vu4eTzdOWAo",
   "Artist Rank": 5873,
   "Genre Rank": 2
@@ -15075,7 +15075,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "sereensounds",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/39J2rMWsNaAtWH8Ep7w1O1",
   "Artist Rank": 369527,
   "Genre Rank": "#DIV\/0!"
@@ -15097,7 +15097,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Soave Records",
-  "Genres": "null",
+  "Genres": "[\"EDM\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0DF8VXSl45QV4Vea8lL3hS",
   "Artist Rank": 27646,
   "Genre Rank": 7
@@ -15108,7 +15108,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Lab78",
-  "Genres": "null",
+  "Genres": "[\"EDM\",\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6Hix9sKooZFXywNvpap932",
   "Artist Rank": 37180,
   "Genre Rank": 5
@@ -15196,7 +15196,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Sacredd",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4Sf13b11b3aknd6inzoY8t",
   "Artist Rank": 999999,
   "Genre Rank": "#DIV\/0!"
@@ -15218,7 +15218,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "BE I AM\/Epic",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2P6438nC3xrOGBy9dwMFqK",
   "Artist Rank": 9803,
   "Genre Rank": 2
@@ -15251,7 +15251,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "DannDib",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/00rwifBJJT10gqhtIGYKwP",
   "Artist Rank": 157787,
   "Genre Rank": 2
@@ -15284,7 +15284,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Virgin Music Label And Artist Services Australia (P&D)",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6wbOEXpyQhlcPUmo7ojyrW",
   "Artist Rank": 117542,
   "Genre Rank": "#DIV\/0!"
@@ -15317,7 +15317,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "DK",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5fYWWeesLIqEOTw7czcibI",
   "Artist Rank": 33962,
   "Genre Rank": 2
@@ -15339,7 +15339,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "CHAPTER EIGHT",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5sp0mce5eh3CE452LbhsGk",
   "Artist Rank": 22102,
   "Genre Rank": "#DIV\/0!"
@@ -15416,7 +15416,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "r.em.edy",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0GWkq3yPXqQaLkpMSm7k5q",
   "Artist Rank": 89624,
   "Genre Rank": 4
@@ -15471,7 +15471,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Sam Short",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1KKMr0ZDhEdbaB7YfI61Te",
   "Artist Rank": 72844,
   "Genre Rank": "#DIV\/0!"
@@ -15482,7 +15482,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Awesome Music",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5G9i6PTCmXdOVmUfDRlc6t",
   "Artist Rank": 25965,
   "Genre Rank": 2
@@ -15504,7 +15504,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "TOMG",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1AvkPsrs52cj6PRNcF9SCG",
   "Artist Rank": 77832,
   "Genre Rank": 2
@@ -15592,7 +15592,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "PARADISE RISING\/88rising Music",
-  "Genres": "null",
+  "Genres": "[\"EDM\",\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5TclgAYTVdTRLnHvTUhyIP",
   "Artist Rank": 14548,
   "Genre Rank": 4
@@ -15647,7 +15647,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "LHF",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6EnKtazzJdQ52G5uML3zdA",
   "Artist Rank": 892795,
   "Genre Rank": "#DIV\/0!"
@@ -15691,7 +15691,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "FNC Ent.",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/47BDGmZwPcI77hvIq0YquL",
   "Artist Rank": 71500,
   "Genre Rank": 2
@@ -15724,7 +15724,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "New 11",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2YCDVu4FofMFvSJt5Vggu2",
   "Artist Rank": 9560,
   "Genre Rank": "#DIV\/0!"
@@ -15768,7 +15768,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "TOKYO'S REVENGE, under exclusive license to Blac Noize!\/Cypress Park Music\/Geffen Records\/Interscope Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/00I2ZzY3LBCOfWvyqgPsJb",
   "Artist Rank": 8619,
   "Genre Rank": 2
@@ -15779,7 +15779,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Das Sound Kollektiv",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6ytucGaZyLa4KfctqHH9JS",
   "Artist Rank": 172142,
   "Genre Rank": "#DIV\/0!"
@@ -15834,7 +15834,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "2293956 Records DK2",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1XKzC2Qe3674QcwjBBph94",
   "Artist Rank": 307830,
   "Genre Rank": "#DIV\/0!"
@@ -15845,7 +15845,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Joey Valence",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6hr3cYYXvzF473sSnchaPb",
   "Artist Rank": 5595,
   "Genre Rank": 2
@@ -15889,7 +15889,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4sRefxprbD0vt3a05I6u0F",
   "Artist Rank": 78823,
   "Genre Rank": "#DIV\/0!"
@@ -15988,7 +15988,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "3532651 Records DK2",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/41NfPrA9JEK6ufqJkUUU2N",
   "Artist Rank": 259237,
   "Genre Rank": 4
@@ -15999,7 +15999,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "LoudKult",
-  "Genres": "null",
+  "Genres": "[\"EDM\",\"Electronic\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4U8TDLDoxWbaAFYkNkxalw",
   "Artist Rank": 21656,
   "Genre Rank": 5
@@ -16032,7 +16032,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Robots & Humans",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6ycTGSmEUIqzvzLOtQ4sqE",
   "Artist Rank": 2792,
   "Genre Rank": 2
@@ -16131,7 +16131,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "JYLPO",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1MIieL63XohHzhYvxnVhYs",
   "Artist Rank": 78932,
   "Genre Rank": 1
@@ -16142,7 +16142,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Boorook",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1Kd43c6d4YsmNLh1VD50K8",
   "Artist Rank": 374981,
   "Genre Rank": "#DIV\/0!"
@@ -16153,7 +16153,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "2494396 Records DK2",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/31NcDMn9gmGDFHre29l0Rv",
   "Artist Rank": 999999,
   "Genre Rank": "#DIV\/0!"
@@ -16164,7 +16164,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "EDYONTHEBEAT LTD.",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6CcBzkj4M4lKORd6GSaxHY",
   "Artist Rank": 163676,
   "Genre Rank": 1
@@ -16186,7 +16186,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Josie Dunne",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2dhPuSbG7blYN5tc6VxzHq",
   "Artist Rank": 7940,
   "Genre Rank": 1
@@ -16274,7 +16274,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Unity Rec",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2aK2NyXOBmnpschHd307kc",
   "Artist Rank": 607854,
   "Genre Rank": "#DIV\/0!"
@@ -16296,7 +16296,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Cosmic Bounce Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\",\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/08Cf1US1EQ4sJhz1EC7wsN",
   "Artist Rank": 123271,
   "Genre Rank": 3
@@ -16307,7 +16307,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "razemundane",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3py5zydRt9WWbKtpJ6Bskr",
   "Artist Rank": 71604,
   "Genre Rank": "#DIV\/0!"
@@ -16329,7 +16329,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6Yf5cHW7uCncVpZpPQSdbV",
   "Artist Rank": 360695,
   "Genre Rank": 6
@@ -16373,7 +16373,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "BRANDEUS",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/06Wn8ESfNRbGd4cvTQdHrE",
   "Artist Rank": 98233,
   "Genre Rank": 2
@@ -16384,7 +16384,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Columbia",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4F7lBgkFp0BbO5ClrKrTXU",
   "Artist Rank": 6522,
   "Genre Rank": 2
@@ -16406,7 +16406,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Capitol Records",
-  "Genres": "null",
+  "Genres": "[\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/1qo8LZ0OHfObYJpA8Zdfhl",
   "Artist Rank": 5610,
   "Genre Rank": 4
@@ -16417,7 +16417,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "LISTEN TO THE KIDS\/Geffen Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6nDIfZcCj06dGLY1sckgaZ",
   "Artist Rank": 20614,
   "Genre Rank": 2
@@ -16428,7 +16428,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "PollyHill",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\",\"R&B\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0Ra6gXTqm7c0XfM6VvA63E",
   "Artist Rank": 102236,
   "Genre Rank": 3
@@ -16439,7 +16439,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "FREEDS",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7MWHkwaj7XwEMDg8l0bDXN",
   "Artist Rank": 218891,
   "Genre Rank": "#DIV\/0!"
@@ -16472,7 +16472,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/448YOHra2znDfTJm4w2rAD",
   "Artist Rank": 105426,
   "Genre Rank": "#DIV\/0!"
@@ -16516,7 +16516,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Relentless Records",
-  "Genres": "null",
+  "Genres": "[\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/21txIUpB3w1dBeixm5X4DL",
   "Artist Rank": 9428,
   "Genre Rank": 2
@@ -16527,7 +16527,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0B3K5LsfYQZHOWZEpv5BIa",
   "Artist Rank": 209540,
   "Genre Rank": "#DIV\/0!"
@@ -16538,7 +16538,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Future Classic",
-  "Genres": "null",
+  "Genres": "[\"Alternative\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7nGxhKrc7bVYe2IsNmiocK",
   "Artist Rank": 35043,
   "Genre Rank": 6
@@ -16549,7 +16549,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "P2021",
-  "Genres": "null",
+  "Genres": "[\"Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7or0qYep2EYHNYOtMugkJq",
   "Artist Rank": 76273,
   "Genre Rank": 1
@@ -16560,7 +16560,7 @@
   "Label Group": "Indie Artist",
   "Label Parent": "Indie Artist",
   "Label": "Independent",
-  "Genres": "null",
+  "Genres": "(空字符串)",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0gtlSZCY8G6HJNqTRiVnDT",
   "Artist Rank": 76986,
   "Genre Rank": "#DIV\/0!"
@@ -16571,7 +16571,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Five AM",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/54H0lpWzFmkJHgwSTRJQLo",
   "Artist Rank": 167638,
   "Genre Rank": 10
@@ -16582,7 +16582,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Vicious",
-  "Genres": "null",
+  "Genres": "[\"EDM\",\"House\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3qIAlDULbOKc0wBptQ3LoH",
   "Artist Rank": 33418,
   "Genre Rank": 11
@@ -16593,7 +16593,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Supathick",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2jxueCmv2ZD7wUomEGswaq",
   "Artist Rank": 215389,
   "Genre Rank": "#DIV\/0!"
@@ -16615,7 +16615,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Nice Guys",
-  "Genres": "null",
+  "Genres": "[\"Indie Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7IQhSyhmcQvGAjL9G7FpwS",
   "Artist Rank": 4124,
   "Genre Rank": 22
@@ -16725,7 +16725,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "BHQ Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6n59FfJIN7HC9egHmgvg4m",
   "Artist Rank": 43362,
   "Genre Rank": "#DIV\/0!"
@@ -16747,7 +16747,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "RICEWINE",
-  "Genres": "null",
+  "Genres": "[\"Indie Pop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2nGYf3UkZEsYZ5MfNjPDxx",
   "Artist Rank": 49739,
   "Genre Rank": 10
@@ -16780,7 +16780,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Mandatory Music",
-  "Genres": "null",
+  "Genres": "[\"Rock\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0ouyXZ0Vt1dVtfEeNfm39u",
   "Artist Rank": 999999,
   "Genre Rank": 9
@@ -16835,7 +16835,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "ZAYA RECORDS",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/2r1KPeJaj9SHXGex0G9goL",
   "Artist Rank": 211569,
   "Genre Rank": "#DIV\/0!"
@@ -16901,7 +16901,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "GLOCSTARR Records",
-  "Genres": "null",
+  "Genres": "[\"Gangsta Rap\",\"Hip Hop\"]",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/4B2F0gslWKdX0dw0DmIJHL",
   "Artist Rank": 11204,
   "Genre Rank": 2
@@ -17099,7 +17099,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Olivia Rodrigo PS",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/5wANPM4fQCJwkGd4rN57mH",
   "Artist Rank": 77,
   "Genre Rank": 1
@@ -17110,7 +17110,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Leah Kate, under exclusive license to 10K Projects\/MDDN",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/6Jkm5kUldvIqxzI1Pa7nXH",
   "Artist Rank": 1256,
   "Genre Rank": "#DIV\/0!"
@@ -17198,7 +17198,7 @@
   "Label Group": "Major",
   "Label Parent": "Sony",
   "Label": "Disruptor Records\/Arista Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/3nOz1U41SZZ0N3fuUWr9nb",
   "Artist Rank": 5354,
   "Genre Rank": 1
@@ -17462,7 +17462,7 @@
   "Label Group": "Label",
   "Label Parent": "Label",
   "Label": "Walt Disney Records",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/760jhRscwGbIIe1m1IIQpU",
   "Artist Rank": 5674,
   "Genre Rank": 1
@@ -18034,7 +18034,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "EMI",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/0247StOpd3AkeBQzANX4Zf",
   "Artist Rank": 19120,
   "Genre Rank": "#DIV\/0!"
@@ -18111,7 +18111,7 @@
   "Label Group": "Major",
   "Label Parent": "UMG",
   "Label": "Geffen",
-  "Genres": "null",
+  "Genres": "#N\/A",
   "Spotify Track Link": "https:\/\/open.spotify.com\/track\/7vQbuQcyTflfCIOu3Uzzya",
   "Artist Rank": 10253,
   "Genre Rank": "#DIV\/0!"
